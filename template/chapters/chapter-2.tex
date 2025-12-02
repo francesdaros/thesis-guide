@@ -1,0 +1,66 @@
+\documentclass[../main.tex]{subfiles}
+\begin{document}
+\chapter{Related Work}\label{cap:related-work}
+
+\section{Front Page}
+
+\textcolor{greenish}{
+To modify the \textbf{first page} of the thesis (e.g., your name, degree programme, thesis title), you should edit the relevant fields in the file \textsf{main.tex}. The variables that can be customised include: \textsf{title}, \textsf{subtitle}, \textsf{thesisHeader}, \textsf{academicYear}, \textsf{author}, \textsf{advisor}, and \textsf{dedication}.
+}
+
+\textcolor{greenish}{
+If you want to change the \textbf{UniUd watermark} or the \textbf{logo}, these elements are defined in the class file.  
+In this case, you will need to modify the \textsf{.cls} file directly.
+}
+
+\section{Abstract and Lists}
+
+\section{Citations and Bibliography}
+
+\textcolor{greenish}{
+This template uses \textsf{biblatex} to manage references.  
+You can cite works in different ways depending on the context:
+\begin{itemize}
+    \item \textbf{Numeric (parenthetical) citation}:  
+    Command \textsf{cite}. Example:~\cite{DBLP:journals/cor/RosGLMW25}
+    \item \textbf{Textual citation with authors in the sentence}: Command \textsf{textcite}. 
+    Example: \textcite{DBLP:journals/cor/RosGLMW25}
+\end{itemize}
+}
+
+\textcolor{greenish}{
+Make sure your references are stored in the \textsf{.bib} file and that all entries include accurate metadata (authors, title, venue, year, DOI).
+}
+
+\textcolor{greenish}{
+The bibliography is generated automatically at the end of the document.  
+It also includes the \textbf{page numbers where each work is cited}, allowing the reader to quickly locate citations within the thesis.
+}
+
+\section{Acronyms}
+
+\textcolor{greenish}{
+Acronyms used in the thesis should be defined in the file \textsf{doc/glossaries.tex}.  
+The \textsf{glossaries} package automatically handles their first and subsequent appearances.
+For example:
+\begin{itemize}
+    \item The first occurrence of \gls{cop} prints the full form.
+    \item Later occurrences automatically use the short form, e.g., \gls{cop} again.
+\end{itemize}
+}
+
+\section{Pre-Chapters and Post-Chapters}
+
+\textcolor{greenish}{
+The template includes optional front matter and back matter pages that you may enable depending on your degree requirements.
+If you need an \textbf{authors’ declaration page}, uncomment the command
+\textsf{\authorsdeclatationpage} in the \textsf{.cls} file.
+Similarly, you can enable or disable other optional pages such as:
+\begin{itemize}
+    \item the \textbf{acronyms} page,
+    \item the \textbf{symbols} page,
+    \item or other preliminary sections included in the class file.
+\end{itemize}
+}
+
+\end{document}
