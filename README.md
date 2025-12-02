@@ -19,7 +19,7 @@ You can open it directly in any web browser.
 
 - `template/` :
 A folder containing the LaTeX thesis template I have used for my own Ph.D. Tehsis.
-This can be used as a starting point for structuring your own thesis (LaTeX, depending on what you include).
+This can be used as a starting point for structuring your own thesis (LaTeX, depending on what you include). Back in time, it was inspired by the [template](https://github.com/baronefr/unipd-thesis-modern?tab=readme-ov-file) by F. Barone. 
 
 ## 🧭 How to Use This Repository
 
