@@ -6,19 +6,19 @@ It is intended for students preparing Bachelor’s, Master’s,
 
 ## Contents
 
-- guide.html :
+- `guide.html` :
 A standalone HTML version of the thesis-writing guide.
 You can open it directly in any web browser.
 
-- template/ :
+- `template/` :
 A folder containing the LaTeX thesis template I have used for my own Ph.D. Tehsis.
 This can be used as a starting point for structuring your own thesis (LaTeX, depending on what you include).
 
 ## How to Use This Guide
 
-- Read guide.html for practical advice on writing each chapter of a thesis, managing bibliography, designing figures and tables, and maintaining good academic writing standards.
+- Read `guide.html` for practical advice on writing each chapter of a thesis, managing bibliography, designing figures and tables, and maintaining good academic writing standards.
 
-- Use the template in template/ as a reference structure for your thesis.
+- Use the template in `template/` as a reference structure for your thesis.
 
 Feel free to adapt the material to fit the requirements of your supervisor, program, or institution.
 
@@ -26,6 +26,8 @@ Feel free to adapt the material to fit the requirements of your supervisor, prog
 
 If you spot something that could be clarified or extended, feel free to open an issue or submit a pull request.
 
-If you prefer, you can also send me an e-mail. I’m always happy to discuss the guide further and to hear whether you found it useful.
+If you prefer, you can also send me an e-mail at: 
 
-francesca[dot]daros[at]uniud[dot]it
+`francesca[dot]daros[at]uniud[dot]it`
+
+I’m always happy to discuss the guide further and to hear whether you found it useful.
