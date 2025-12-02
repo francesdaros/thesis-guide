@@ -7,9 +7,8 @@ The guide is aimed at Bachelor’s and Master’s students preparing their thesi
 
 ## 📘 Read the Guide Online
 
-To direclty access the visit [👉 Guide](https://francesdaros.github.io/thesis-guide/guide.html)
+To access the guide directly visit  [👉 Guide](https://francesdaros.github.io/thesis-guide/guide.html)
 
-The guide is available as a fully rendered, self-contained HTML document.
 
 ## 📁 Repository Contents
 
