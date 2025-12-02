@@ -7,7 +7,7 @@ The guide is aimed at Bachelor’s and Master’s students preparing their thesi
 
 ## 📘 Read the Guide Online
 
-To access the guide directly visit  [👉 Guide](https://francesdaros.github.io/thesis-guide/guide.html)
+To access the guide directly visit this [link](https://francesdaros.github.io/thesis-guide/guide.html)
 
 
 ## 📁 Repository Contents
@@ -22,7 +22,7 @@ This can be used as a starting point for structuring your own thesis (LaTeX, dep
 
 ## 🧭 How to Use This Repository
 
-- Read [👉 Guide](https://francesdaros.github.io/thesis-guide/guide.html) for practical advice on writing each chapter of a thesis, managing bibliography, designing figures and tables, and maintaining good academic writing standards.
+- Read the [Guide](https://francesdaros.github.io/thesis-guide/guide.html) for practical advice on writing each chapter of a thesis, managing bibliography, designing figures and tables, and maintaining good academic writing standards.
 
 - Use the template in `template/` as a reference structure for your thesis.
 
@@ -40,3 +40,11 @@ If you find something unclear or wish to suggest improvements:
 francesca[dot]daros[at]uniud[dot]it
 
 I’m always happy to discuss the guide and hear whether you found it useful.
+
+## 🌸 Acknowledgements
+
+This guide builds on my experience teaching and supervising theses at the Università degli Studi di Udine.
+I am grateful to the students whose questions and feedback over the years inspired many of the recommendations included here.
+
+Special thanks also go to colleagues who shared templates, best practices, and insights on academic writing and thesis preparation. 
+In particolar, I wish to thank the ones who proof-read this guide (in alphabetical order): L. Di Gaspero, T. Geibinger, T. Mannelli Mazzoli, V. Riccio.
