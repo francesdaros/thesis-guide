@@ -47,4 +47,4 @@ This guide builds on my experience teaching and supervising theses at the Univer
 I am grateful to the students whose questions and feedback over the years inspired many of the recommendations included here.
 
 Special thanks also go to colleagues who shared templates, best practices, and insights on academic writing and thesis preparation. 
-In particolar, I wish to thank the ones who proof-read this guide (in alphabetical order): L. Di Gaspero, T. Geibinger, T. Mannelli Mazzoli, V. Riccio.
+In particular, I wish to thank the ones who proof-read this guide (in alphabetical order): L. Di Gaspero, T. Geibinger, D. La Barbera, T. Mannelli Mazzoli, V. Riccio, M. Segatto.
