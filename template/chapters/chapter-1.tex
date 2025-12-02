@@ -1,0 +1,25 @@
+\documentclass[../main.tex]{subfiles}
+\begin{document}
+\chapter{Introduction}\label{cap:introduction}
+
+This is just an example chapter that I am using to showcase how to do thingis. 
+
+This is an example chapter used to illustrate how to structure content and use some common features of this template.
+
+\section{First Section of This Chapter}\label{sec:first-section}
+
+\begin{itemize}
+    \item To refer to the next section, use \Cref{sec:second-section}.
+    \item Define your acronyms in \textsf{doc/glossaries.tex}.  
+    For example, the first occurrence of \gls{cop} prints the full form, while later occurrences print the short form (e.g., \gls{cop} again).
+    \item Example of numeric citation:~\cite{DBLP:journals/cor/RosGLMW25}.  
+    Example of textual citation: \textcite{DBLP:journals/cor/RosGLMW25}.
+    \item If you need an authors’ declaration page, uncomment the command \textsf{authorsdeclatationpage} in the \textsf{.cls} file.  
+    The same applies to enabling the acronyms page or the symbols page.
+\end{itemize}
+
+\section{Second Section of This Chapter}\label{sec:second-section}
+
+This is another example section showing how cross-referencing works within the chapter.
+
+\end{document}

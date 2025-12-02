@@ -1,0 +1,66 @@
+\PassOptionsToPackage{table}{xcolor} 
+\PassOptionsToPackage{pdfa}{hyperref}
+\documentclass{uniud-thesis-modern} 
+\usepackage{subfiles}
+
+\usepackage{adjustbox}
+\usepackage{interval}
+\usepackage[ruled,vlined]{algorithm2e}
+\newcommand\mycommfont[1]{\textcolor{orange}{#1}}
+\SetCommentSty{mycommfont}
+\usepackage{pdfpages}
+\usepackage{tcolorbox}
+\usepackage{pdflscape}
+\usepackage{siunitx}
+\usepackage{listings}
+
+\usepackage{pdflscape}
+\usepackage[inline]{enumitem}
+\usepackage{bm}
+\usepackage{xurl} 
+\usepackage{mathtools}
+\newtheorem{theorem}{Theorem}
+\usepackage{bbding}
+
+\usepackage[titles]{tocloft} 
+\setlength{\cftbeforechapskip}{7pt}
+\setcounter{tocdepth}{4} 
+\hypersetup{
+  colorlinks=true, %Colours links instead of ugly boxes
+  urlcolor=greenish, %Colour for external hyperlinks
+  linkcolor=black, %Colour of internal links
+  citecolor=greenish %Colour of citations
+}
+\usepackage{xifthen}
+\usepackage{cleveref}
+
+
+
+% Thesis information
+\title{Your Fancy Thesis Title\\}
+\subtitle{Your Fancy Thesis Subtitle}
+\thesisHeader{Università degli Studi di Udine\\Department of Mathematics, Computer Science, and Physics\\Ph.D. in Computer Science and Artificial Intelligence --- XXXVIII Cycle}
+\academicYear{YYYY}
+\author{Name Surname}
+\advisor{Prof.\ Name and Surname}{Università degli Studi di Udine} 
+\dedication{\textit{Dedication to some very important person}
+}
+\bibliography{biblio}
+
+\begin{document}
+
+\frontmatter{}
+
+\mainmatter{}
+
+\part{Example of part}\label{part:Example of part}
+\glsresetall{}
+\subfile{chapters/chapter-1.tex}
+
+
+\appendix
+\glsresetall{}
+\subfile{appendices/appendice-a.tex}
+
+\backmatter{}
+\end{document}
