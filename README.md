@@ -1,12 +1,19 @@
 # Thesis Writing Guide and Thesis Template 
 
-This repository contains a concise guide on how to write a scientific thesis, with a particular focus on Computer Science and Artificial Intelligence.
-Most of the content relates to the guidelines by the Università degli Studi di Udine (University of Udine), but might be useful for several other institutions. 
-It is intended for students preparing Bachelor’s, Master’s,
+This repository contains a concise guide on how to write a scientific thesis, with a focus on Computer Science and Artificial Intelligence.
+Most of the material follows the guidelines used at the Università degli Studi di Udine, but it may be helpful for students at many other institutions.
 
-## Contents
+The guide is aimed at Bachelor’s and Master’s students preparing their thesis.
 
-- `guide.html` :
+## 📘 Read the Guide Online
+
+To direclty access the visit [👉 Guide](https://francesdaros.github.io/thesis-guide/guide.html)
+
+The guide is available as a fully rendered, self-contained HTML document.
+
+## 📁 Repository Contents
+
+- `docs/guide.html` :
 A standalone HTML version of the thesis-writing guide.
 You can open it directly in any web browser.
 
@@ -14,20 +21,23 @@ You can open it directly in any web browser.
 A folder containing the LaTeX thesis template I have used for my own Ph.D. Tehsis.
 This can be used as a starting point for structuring your own thesis (LaTeX, depending on what you include).
 
-## How to Use This Guide
+## 🧭 How to Use This Repository
 
-- Read `guide.html` for practical advice on writing each chapter of a thesis, managing bibliography, designing figures and tables, and maintaining good academic writing standards.
+- Read [👉 Guide](https://francesdaros.github.io/thesis-guide/guide.html) for practical advice on writing each chapter of a thesis, managing bibliography, designing figures and tables, and maintaining good academic writing standards.
 
 - Use the template in `template/` as a reference structure for your thesis.
 
 Feel free to adapt the material to fit the requirements of your supervisor, program, or institution.
 
-## Contributions 
+## 🤝 Contributions and Feedback
 
-If you spot something that could be clarified or extended, feel free to open an issue or submit a pull request.
+Contributions are welcome!
+If you find something unclear or wish to suggest improvements:
 
-If you prefer, you can also send me an e-mail at: 
+- open an issue, or
+- submit a pull request, or
+- contact me by email:
 
-`francesca[dot]daros[at]uniud[dot]it`
+francesca[dot]daros[at]uniud[dot]it
 
-I’m always happy to discuss the guide further and to hear whether you found it useful.
+I’m always happy to discuss the guide and hear whether you found it useful.
